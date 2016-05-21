@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!--采用表格画的九宫格-->
+<html>
+
+<head>
+
+<style> 
+td{
+    background-color:red;
+    border-radius:5px;
+    width: 70px;
+    margin: 10px;
+    padding: 5px;
+    height:70px;
+
+}
+
+
+</style>
+</head>
+
+
+<body>
+<table  border="0">
+<tr>
+    <td ></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+
+
+</body>
+</html>
